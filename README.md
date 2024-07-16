@@ -1,5 +1,4 @@
-# Online Retail
-# Enhancing Customer Experience and Boosting Sales in Online Retail
+# Online Retail: Enhancing Customer Experience and Boosting Sales in Online Retail
 
 Part of my Data Analytics Bootcamp
 Dataset: https://archive.ics.uci.edu/dataset/352/online+retail
