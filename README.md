@@ -1,4 +1,11 @@
 # Online Retail
-Developers Institute Hackathon 3
+> Enhancing Customer Experience and Boosting Sales in Online Retail
+Part of my Data Analytics Bootcamp
 
-In progress ....
+# Project Content:
+  1. Customer Segmentation and Profiling:
+  2. Product Recommendation System:
+  3. Customer Lifetime Value (CLV) Analysis:
+  4. Time-Series Analysis for Seasonal Trends:
+
+# In progress ....
